@@ -1,4 +1,4 @@
-# tabela-nutricional
+# Tabela Nutricional
 
 Nesse projeto foi desenvolvido uma tabela nutricional com o intuito de utilizar conceitos basicos, mas importantes da Lógica de programação e também saber como o JavaScript
 funciona usando o DOM e conceitos um pouco mais avançados como as Expressões Regulares(Regex) e XMLHttpRequest.
